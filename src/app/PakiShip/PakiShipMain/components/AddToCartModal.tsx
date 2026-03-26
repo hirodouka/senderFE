@@ -1,5 +1,5 @@
 import { ShoppingCart, X, Plus, Minus, Package, Check } from "lucide-react";
-const mascotBoxImg = "/logo.png";
+import mascotBoxImg from "@/assets/d0a94c34a139434e20f5cb9888d8909dd214b9e7.png";
 
 interface CartItem {
   id: string;

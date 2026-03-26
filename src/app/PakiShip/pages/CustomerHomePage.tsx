@@ -49,7 +49,7 @@ export type Notification = {
 
 // ─── Assets ──────────────────────────────────────────────────────────────────
 
-const logoImg = "/logo.png";
+import logoImg from "@/assets/d0a94c34a139434e20f5cb9888d8909dd214b9e7.png";
 
 const sendParcelIcon = "https://i.imgur.com/a6gHhtu.png";
 const trackPackageIcon = "https://i.imgur.com/HHNarFY.png";

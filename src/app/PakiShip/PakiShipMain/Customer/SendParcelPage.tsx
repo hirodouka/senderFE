@@ -38,8 +38,8 @@ import PaymentMethodSelector from "../components/PaymentMethodSelector";
 import LocationPickerModal from "../components/LocationPickerModal";
 
 // Assets
-const logo = "/logo.png";
-const bgPattern = "/logo.png";
+import logo from "@/assets/d0a94c34a139434e20f5cb9888d8909dd214b9e7.png";
+import bgPattern from "@/assets/d0a94c34a139434e20f5cb9888d8909dd214b9e7.png";
 
 interface CartItem extends PackageDetailsType {
   id: string;

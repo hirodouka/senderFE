@@ -17,7 +17,7 @@ import {
 import { useNavigate } from "react-router";
 import { CustomerPageHeader } from "../components/CustomerPageHeader";
 import MapPreview from "../components/MapPreview";
-const logoImg = "/logo.png";
+import logoImg from "@/assets/d0a94c34a139434e20f5cb9888d8909dd214b9e7.png";
 
 const allDeliveries = [
   { id: "PKS-2024-001", location: "Makati City", time: "15 mins away", status: "In Transit" },

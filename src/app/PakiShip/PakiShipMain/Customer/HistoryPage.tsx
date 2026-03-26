@@ -3,8 +3,8 @@ import { useNavigate } from "react-router";
 import { useState } from "react";
 import { CustomerPageHeader } from "../components/CustomerPageHeader";
 import { TransactionDetailsModal } from "../components/TransactionDetailsModal";
-const logoImg = "/logo.png";
-const mascotImg = "/logo.png";
+import logoImg from "@/assets/d0a94c34a139434e20f5cb9888d8909dd214b9e7.png";
+import mascotImg from "@/assets/d0a94c34a139434e20f5cb9888d8909dd214b9e7.png";
 
 export function HistoryPage() {
   const navigate = useNavigate();
